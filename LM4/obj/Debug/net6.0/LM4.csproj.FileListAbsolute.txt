@@ -1,0 +1,15 @@
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/bin/Debug/net6.0/LM4
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/bin/Debug/net6.0/LM4.deps.json
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/bin/Debug/net6.0/LM4.runtimeconfig.json
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/bin/Debug/net6.0/LM4.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/bin/Debug/net6.0/LM4.pdb
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/obj/Debug/net6.0/LM4.csproj.AssemblyReference.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/obj/Debug/net6.0/LM4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/obj/Debug/net6.0/LM4.AssemblyInfoInputs.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/obj/Debug/net6.0/LM4.AssemblyInfo.cs
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/obj/Debug/net6.0/LM4.csproj.CoreCompileInputs.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/obj/Debug/net6.0/LM4.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/obj/Debug/net6.0/refint/LM4.dll
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/obj/Debug/net6.0/LM4.pdb
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/obj/Debug/net6.0/LM4.genruntimeconfig.cache
+/Users/pawelw/Desktop/II st/Lingwistyka matematyczna/Lab/4/LM4/LM4/obj/Debug/net6.0/ref/LM4.dll
